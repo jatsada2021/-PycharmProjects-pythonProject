@@ -3,7 +3,7 @@ def printname(*adult):
 
 #printname('Tik')
 #printname('Khim')
-printname('Jatsada','Chamnanprai.')
+printname('Jatsada','Rachadet.')
 
 def addinfo (*data):
     for j in data:
