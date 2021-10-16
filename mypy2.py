@@ -38,6 +38,8 @@ def putdata (ans):
 ans = input('You want to add some word to file? y or n : ')
 putdata(ans)
 #Today test to setup a git
+#Now the file just upload to git
+
 
 
 
